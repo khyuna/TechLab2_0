@@ -61,7 +61,7 @@ public class DataUtil {
     public static String getDataFormat(String date){
         //2019.09.20과같은 형식
         String dateFormat;
-        
+
         String year = date.substring(0,3);
         String month = date.substring(4,5);
         String day = date.substring(6,7);
