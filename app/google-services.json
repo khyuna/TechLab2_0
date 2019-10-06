@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "169193159194",
+    "firebase_url": "https://techlab20-f615e.firebaseio.com",
+    "project_id": "techlab20-f615e",
+    "storage_bucket": "techlab20-f615e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169193159194:android:dde78c506b34f980",
+        "android_client_info": {
+          "package_name": "com.example.hyuna.techlab20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169193159194-dauesco3oagro8pfrpfmav3rsj7rp8qo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hyuna.techlab20",
+            "certificate_hash": "8a1b73417472a9c85fe6bd8f83857984feac1990"
+          }
+        },
+        {
+          "client_id": "169193159194-f3fo52kfa88o89h4irgonvri57oqs7pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA34OwXYNSFPoxrL5oF0OW8d8fDkqQCqB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169193159194-f3fo52kfa88o89h4irgonvri57oqs7pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
